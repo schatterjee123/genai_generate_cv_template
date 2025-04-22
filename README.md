@@ -9,4 +9,7 @@ Run the project:
 
 3. Run the application :
     python src/generateCV_UI.py
+
+UI of the app :
+
 ![Screenshot 2025-04-22 at 12 29 38](https://github.com/user-attachments/assets/a7186f30-3952-4dcb-8af5-ef65ec8d47f1)
