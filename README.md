@@ -4,11 +4,17 @@ Run the project:
         pip install -r requirements.txt
 
 2. Add OPENAI_API_KEY in the .env file :
-    Instrucions of how to get OPENAI_API_KEY is here : 
+    Instructions of how to get OPENAI_API_KEY is here : 
      https://help.openai.com/en/articles/4936850-where-do-i-find-my-openai-api-key
 
-3. Run the application :
+3. Keep all the CVs need modification in the input folder. 
+
+4. CV template is picked up from the template folder, modify if any new template is needed. This template is an input in the UI.
+
+5. Run the application :
     python src/generateCV_UI.py
+
+6. New CVs based on template are generated in the output folder or whatever folder user input in the UI. The folder will be created if it is not present already. 
 
 UI of the app :
 
