@@ -8,4 +8,4 @@ Run the project:
      https://help.openai.com/en/articles/4936850-where-do-i-find-my-openai-api-key
 
 3. Run the application :
-    uvicorn src.generate_athora_doc:app --reload
+    python src/generateCV_UI.py
